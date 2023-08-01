@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elijah Smith and I am a Junior-level student.
+My name is Elijah Smith and I am a Junior-level student.  I endevour to learn as much as possible relating to coding so that I can one day become a powerhouse withen the programing stratus.
 <!--
 **CeltESmith/CeltESmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
